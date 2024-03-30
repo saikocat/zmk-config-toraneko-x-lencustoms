@@ -4,7 +4,7 @@
 if SHIELD_TORANEKO_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Toraneko [LenCustoms]"
+    default "Toraneko [LC]"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
