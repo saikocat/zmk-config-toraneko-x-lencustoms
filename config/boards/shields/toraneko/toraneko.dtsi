@@ -27,7 +27,7 @@
         >;
     };
 
-    five_columns_transform: keymap_transform_1 {
+    five_column_transform: keymap_transform_1 {
         columns = <10>;
         rows = <5>;
 //         | SW02  | SW03  | SW04  | SW05  | SW06  |   | SW06  | SW05  | SW04  | SW03  | SW02  |
