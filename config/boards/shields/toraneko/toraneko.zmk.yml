@@ -1,0 +1,14 @@
+file_format: "1"
+id: toraneko
+name: Toraneko
+type: shield
+url: https://github.com/saikocat/zmk-config-toraneko-x-lencustoms/
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+siblings:
+  - torankeo_left
+  - torankeo_right
+

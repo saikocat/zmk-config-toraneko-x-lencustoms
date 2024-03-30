@@ -1,0 +1,8 @@
+# Copyright 2024 saikocat (@saikocat)
+# SPDX-License-Identifier: MIT
+
+config SHIELD_TORANEKO_LEFT
+    def_bool $(shields_list_contains,toraneko_left)
+
+config SHIELD_TORANEKO_RIGHT
+    def_bool $(shields_list_contains,toraneko_right)
